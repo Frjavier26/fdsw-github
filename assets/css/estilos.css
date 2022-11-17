@@ -1,11 +1,12 @@
 body {
   font-family: "Raleway", sans-serif;
+  background: aquamarine;
 }
 
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/planeta.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
