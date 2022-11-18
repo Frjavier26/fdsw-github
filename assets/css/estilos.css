@@ -1,7 +1,7 @@
 body {
   /* font-family: "Raleway", sans-serif; cambio de font */
   font-family: 'Roboto', sans-serif;
-  background: aquamarine;
+  background: grey;
 }
 
 /* Hero Section */
@@ -21,6 +21,7 @@ body {
   background-size: cover;
   background-position: center;
 }
+
 
 /* Contacto */
 
